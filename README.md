@@ -11,4 +11,8 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 * clouds images
 
 * Screenshot
+![Screenshot 2024-06-22 145340](https://github.com/NomaanAttar/weather-app/assets/169025519/bf8e5aa2-ea99-4e24-962b-ee0f7a317586)
+![Screenshot 2024-06-22 145424](https://github.com/NomaanAttar/weather-app/assets/169025519/549f178d-c0f6-400f-9c0a-96a0b256f29e)
+![Screenshot 2024-06-22 145558](https://github.com/NomaanAttar/weather-app/assets/169025519/76490cf7-7c91-4735-a267-ada9c4aea54f)
+![Screenshot 2024-06-22 145642](https://github.com/NomaanAttar/weather-app/assets/169025519/3f3fa5fa-6ff9-4377-97cc-251b45584e0e)
 
